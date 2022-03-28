@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    font-size: 50px ;
+    
 }
 a {
     color: black;
@@ -14,4 +14,10 @@ button {
 }
 .label {
     font-size: 30px;
+    margin-left:900px;
+
+}
+h2 {
+    text-align: center;
+    border: 3px dashed black;
 }
